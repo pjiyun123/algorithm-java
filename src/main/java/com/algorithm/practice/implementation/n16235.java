@@ -8,7 +8,7 @@ import java.util.*;
 public class n16235 {
 
     static int N; // 전체 땅의 행과 열
-    static int M; // 초기에 주어진 나무의 수
+    static int M; //  초기에 주어진 나무의 수
     static int K; // 년 수
 
     static int[][] lands; // 전체 땅
