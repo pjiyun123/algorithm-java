@@ -1,7 +1,6 @@
 package com.algorithm.practice.implementation;
 
 import java.io.IOException;
-import java.util.ArrayList;
 import java.util.Scanner;
 
 public class n2447 {
@@ -46,6 +45,9 @@ public class n2447 {
             star[x][y] = '*';
             return;
         }
+
+        // N=27일 경우 한 블록 사이즈는 9이듯, size는 해당 블록의 한 칸을 담을 변수를 의미
+        // count는 별 출력 누적을 의미
 
         int size = N / 3;
         int count = 0;
