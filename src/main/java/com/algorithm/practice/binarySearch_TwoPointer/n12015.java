@@ -1,4 +1,4 @@
-package com.algorithm.practice.binarySearch;
+package com.algorithm.practice.binarySearch_TwoPointer;
 
 import java.io.BufferedReader;
 import java.io.IOException;

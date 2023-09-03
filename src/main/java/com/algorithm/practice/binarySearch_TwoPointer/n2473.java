@@ -1,9 +1,7 @@
-package com.algorithm.practice.binarySearch;
+package com.algorithm.practice.binarySearch_TwoPointer;
 
 import java.io.IOException;
-import java.util.ArrayList;
 import java.util.Arrays;
-import java.util.Comparator;
 import java.util.Scanner;
 
 public class n2473 {
