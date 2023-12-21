@@ -3,6 +3,7 @@ package com.algorithm.practice.cos_pro;
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
+import java.util.LinkedList;
 
 public class n1 {
 
